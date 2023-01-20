@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Container, Role, User, Avatar } from "./styles";
+import { Avatar, Container, Role, User } from "./styles";
 
 interface UserProps {
     isBot?: boolean;
